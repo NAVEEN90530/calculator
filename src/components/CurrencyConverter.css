@@ -1,0 +1,61 @@
+/* CurrencyConverter.css */
+
+.landing-section {
+    text-align: center;
+    margin-top: 20px;
+    background-color: #755e5e;
+    padding: 20px;
+    border-radius: 55px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .landing-heading {
+    color: azure;
+  }
+  
+  .form {
+    max-width: 400px;
+    margin: 0 auto;
+    color: azure;
+  }
+  
+  .form-label {
+    font-size: 18px;
+    display: block;
+    margin-bottom: 15px;
+    margin-top:10px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .select-tag {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .btn-success {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    width: 100px; 
+    height:100px;
+    border-radius: 50%;
+  }
+  
+  .btn-success:hover {
+    background-color: #45a049;
+  }
+  
+  .para {
+    margin-top: 20px;
+    font-size: 18px;
+    color: azure;
+  }
+  

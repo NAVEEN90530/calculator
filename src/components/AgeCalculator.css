@@ -1,0 +1,51 @@
+/* AgeCalculator.css */
+
+.age-calculator-container {
+    text-align: center;
+    margin-top: 20px;
+    background-color:  #755e5e;
+    color: azure;
+    padding: 20px;
+    border-radius: 55px;
+  }
+  
+  .label {
+    font-size: 20px;
+  }
+  
+  .input-field {
+    font-size: 16px;
+    padding: 5px;
+    margin: 10px;
+  }
+  
+  .calculate-button {
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    width: 100px; 
+    height:100px;
+    border-radius: 50%;
+  }
+  
+  .calculate-button:hover {
+    background-color: #45a049;
+  }
+  
+  .title {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .result-container {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .result {
+    margin-bottom: 5px;
+    color: white;
+  }
+  
